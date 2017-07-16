@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+
+<language>
+
+    <text key="PLAY">OYNA</text>
+    <text key="Server IP:">Server IP:</text>
+    <text key="Port:">Port:</text>
+    <text key="Nickname:">Nickname:</text>
+    <text key="Male">Erkek</text>
+    <text key="Female">Kadin</text>
+    <text key="Language:">Dil:</text>
+    <text key="Credits">Yapimci</text>
+    <text key="Inventory">Envanter</text>
+    <text key="Main Menu">Ana Menü</text>
+    <text key="Chat">Sohbet</text>
+    <text key="Pickaxe">Kazma</text>
+    <text key="Coin">Para</text>
+    <text key="Mine">Kaz</text>
+    <text key="Leave">Birak</text>
+    
+    <text key="ip_warn">Lütfen IP adresini kontrol edin.</text>
+    <text key="port_warn">Lütfen PORT numarasini kontrol edin.</text>
+    <text key="name_warn">Nickiniz geçersiz karakter içeriyor.</text>
+    
+    <text key="connecting_msg">Lütfen bekleyin. Sunucuya baglaniliyor...</text>
+    <text key="begin_msg">Oyun basladi!</text>
+    <text key="end_msg">Oyun bitti. Oyun sonu ekranı simdi geliyor...</text>
+    <text key="busy_ore_msg">Bu maden baskasi tarafindan kaziliyor.</text>
+    <text key="disconnect_msg">Sunucu baglantisi koptu.</text>
+    <text key="server_closed_msg">Sunucu admin tarafindan kapatildi.</text>
+    <text key="connected_msg">Sunucuya baglanti kuruldu. Sohbet icin ENTER'a basin...</text>
+    <text key="info1_msg">WASD ile hareket edip etraftaki madenleri kazin.</text>
+    <text key="info2_msg">Tum madenler bittiginde en cok altin cikaran oyunu kazanir!</text>
+    <text key="kicked_msg">Sunucudan atildin veya baglantin koptu.</text>
+    <text key="kicked_notify_msg">sunucudan atildi.</text>
+    <text key="disconnect_notify_msg">oyuncusunun baglantisi koptu.</text>
+    <text key="left_notify_msg">oyundan ayrildi.</text> 
+    <text key="joined_notify_msg">oyuna katildi.</text>
+    <text key="game_over_msg">Oyun Bitti</text>
+    <text key="scores_msg">Skorlar (Kazilan Maden - Toplam Para)</text>
+    <text key="goback_msg">Ana Menüye gitmek için sag tiklayin...</text>
+    <text key="welcome_msg">Tekrar hosgeldiniz...</text>
+    
+    <text key="name_exists_err">Bu isim su anda kullaniliyor.</text>
+    <text key="already_connected_err">Bu client sunucuya hala bagli.</text>
+    <text key="connection_failed_err">Baglanti basarisiz oldu.</text>
+    <text key="connection_timeout_err">Sunucu bulunamadi.</text>
+    <text key="unexpected_err">Beklenmedik bir hata olustu.</text>
+    <text key="connection_err">Bir baglanti hatası olustu.</text>
+    <text key="long_message_err">Mesajiniz çok uzundu.</text>
+    
+</language>

@@ -1,0 +1,1 @@
+java -cp server.jar com.crow.prototype.server.GoldMinersServer

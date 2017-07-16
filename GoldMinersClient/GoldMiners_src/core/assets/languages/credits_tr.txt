@@ -1,0 +1,17 @@
+﻿  - Gold Miners -
+
+  Bu oyun çesitli programlama mekaniklerini test etme ve ileride gelistirilecek bir oyuna prototip olusturma amaçlari ile yazilmistir. 
+
+Programlama
+   Emin Bahadir Tülüce
+   (eminbahadir98 on GitHub)
+
+Grafikler
+   Ari Feldman
+   Katsuki Kiyoto
+   Buch on OpenGameArt
+   colebemis on GitHub
+   supercommanderwolfy on Deviantart
+   
+   
+(2017 - Temmuz)

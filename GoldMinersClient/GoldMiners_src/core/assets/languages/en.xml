@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+
+<language>
+
+    <text key="PLAY">PLAY</text>
+    <text key="Server IP:">Server IP:</text>
+    <text key="Port:">Port:</text>
+    <text key="Nickname:">Nickname:</text>
+    <text key="Male">Male</text>
+    <text key="Female">Female</text>
+    <text key="Language:">Language:</text>
+    <text key="Credits">Credits</text>
+    <text key="Inventory">Inventory</text>
+    <text key="Main Menu">Main Menu</text>
+    <text key="Chat">Chat</text>
+    <text key="Pickaxe">Pickaxe</text>
+    <text key="Coin">Coin</text>
+    <text key="Mine">Mine</text>
+    <text key="Leave">Leave</text>
+    
+    <text key="ip_warn">Please check the IP address.</text>
+    <text key="port_warn">Please check the PORT number.</text>
+    <text key="name_warn">Your nickname contains invalid characters.</text>
+    
+    <text key="connecting_msg">Please wait. Connecting to the server...</text>
+    <text key="begin_msg">The game has begun!</text>
+    <text key="end_msg">The game is over. Taking you to the endgame screen...</text>
+    <text key="busy_ore_msg">This ore is being mined by another player.</text>
+    <text key="disconnect_msg">Disconnected from the server.</text>
+    <text key="server_closed_msg">The server is closed by the admin.</text>
+    <text key="connected_msg">Connected to the server. Press ENTER to chat...</text>
+    <text key="info1_msg">Move with WASD and mine the ores.</text>
+    <text key="info2_msg">When there is no ore left, the player who mined most wins!</text>
+    <text key="kicked_msg">Disconnected or kicked from the server.</text>
+    <text key="kicked_notify_msg">has been kicked from the game.</text>
+    <text key="disconnect_notify_msg">disconnected.</text>
+    <text key="left_notify_msg">left the game.</text> 
+    <text key="joined_notify_msg">joined the game.</text>
+    <text key="game_over_msg">Game Over</text>
+    <text key="scores_msg">Scores (Mined Ores - Total Coin)</text>
+    <text key="goback_msg">Right click to go to the Main Menu...</text>
+    <text key="welcome_msg">Welcome back...</text>
+    
+    <text key="name_exists_err">This name is already being used.</text>
+    <text key="already_connected_err">This client is already connected.</text>
+    <text key="connection_failed_err">Connection failed.</text>
+    <text key="connection_timeout_err">The server could not be found.</text>
+    <text key="unexpected_err">An unexpected error occured.</text>
+    <text key="connection_err">A connection error occured.</text>
+    <text key="long_message_err">Your message was too long.</text>
+    
+</language>
